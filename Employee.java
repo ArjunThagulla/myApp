@@ -1,1 +1,4 @@
-calss Employee{}
+calss Employee{
+
+int id;
+}
